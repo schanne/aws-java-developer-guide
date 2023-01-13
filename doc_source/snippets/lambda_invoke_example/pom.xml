@@ -12,7 +12,7 @@
       <groupId>com.amazonaws</groupId>
       <artifactId>aws-java-sdk-lambda</artifactId>
       <!--<version>LATEST</version>-->
-      <version>1.10.56</version>
+      <version>1.12.384</version>
     </dependency>
   </dependencies>
   <build>
